@@ -4,6 +4,4 @@
     * Transfer Learning and Fine Tuning of Transformers in PyTorch
     * Creating an Interactive Dashboard to see trends real-time
 * **Dataset**: 'Unprocessed' tar file from [Multi-Domain Sentiment Dataset (version 2.0)](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
-* **Packages**:
-* **Blog**:
-* **Output**: [Add dashboard image]
+* **Blog**: [Mining Opinions to Understand Customer Trends, Towards Data Science](https://towardsdatascience.com/mining-opinions-to-understand-customer-trends-part-1-of-2-e531793228b7)
